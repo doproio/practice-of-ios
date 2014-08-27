@@ -1,4 +1,8 @@
-practice-of-ios
+practice-of-ios（华丽转身）
 ===============
 
-practice-of-ios
+# 目标
+
+完成前端向`IOS界面开发工程师`的华丽转身。
+
+通过第一阶段的学习，可以
