@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9996939B-D37B-4AC6-BA1E-C86ACCF9C4BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>grid</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90583986F09CB9748A3AC1B2E8A425D27687B72A</key>
+		<string>https://github.com/QQVIPTeam/practice-of-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>class3/work/grid/grid.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90583986F09CB9748A3AC1B2E8A425D27687B72A</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/QQVIPTeam/practice-of-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90583986F09CB9748A3AC1B2E8A425D27687B72A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90583986F09CB9748A3AC1B2E8A425D27687B72A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>practice-of-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
